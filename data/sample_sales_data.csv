@@ -1,0 +1,8 @@
+OrderID,OrderDate,ProductCategory,ProductName,Quantity,UnitPrice,Salesperson,Region
+1,2024-01-15,Electronics,Laptop,2,1200,Alice,North
+2,2024-01-17,Books,Python Programming,10,45,Bob,West
+3,2024-01-20,Electronics,Smartphone,5,800,Alice,North
+4,2024-02-10,Clothing,T-Shirt,20,25,Carol,East
+5,2024-02-12,Books,Data Science Handbook,5,55,Bob,West
+6,2024-03-05,Electronics,Tablet,3,600,Alice,North
+7,2024-03-10,Clothing,Jeans,15,70,David,South
