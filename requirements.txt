@@ -1,0 +1,5 @@
+pandas
+plotly
+dash
+dash-bootstrap-components
+sqlalchemy for DB connection
