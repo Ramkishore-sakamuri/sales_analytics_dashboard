@@ -1,0 +1,129 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib60/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+# Usually these files are written by a CI, but they might be part of a developer's build process
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+*.project
+*.pydevproject
+*.sublime-workspace
+*.sublime-project
+*.tmproj
+.toolstarget
+*.DS_Store
+Thumbs.db
+
+# Sensitive configuration files - BE CAREFUL WITH THESE
+# If your config files contain secrets (API keys, database passwords),
+# list them here. It's better to use environment variables or a secrets manager.
+# Example:
+# config/db_config.ini
+# secrets.json
+# .credentials/
+
+# Data files
+# If you have large data files or sensitive data that shouldn't be in the repo,
+# add them here. For example:
+# data/*.csv
+# data/large_dataset.parquet
+# data/sensitive_info.xlsx
+# *.sqlite
+# *.db
+
+# Log files
+*.log
+logs/
+
+# Other
+*.bak
+*~
+*.swp
+
+# Specific to this project (if any temporary outputs are generated)
+# temp_outputs/
